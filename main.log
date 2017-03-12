@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  11 MAR 2017 20:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  11 MAR 2017 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,20 +981,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<figs/BlindPerson.pdf, id=109, 462.72874pt x 347.2975pt>
+<figs/BlindPerson.pdf, id=105, 462.72874pt x 347.2975pt>
 File: figs/BlindPerson.pdf Graphic file (type pdf)
 
 <use figs/BlindPerson.pdf>
 Package pdftex.def Info: figs/BlindPerson.pdf used on input line 15.
 (pdftex.def)             Requested size: 161.28369pt x 121.0525pt.
 
-<figs/vrapp_another.pdf, id=110, 462.72874pt x 347.2975pt>
+<figs/vrapp_another.pdf, id=106, 462.72874pt x 347.2975pt>
 File: figs/vrapp_another.pdf Graphic file (type pdf)
 
 <use figs/vrapp_another.pdf>
 Package pdftex.def Info: figs/vrapp_another.pdf used on input line 19.
 (pdftex.def)             Requested size: 161.28369pt x 121.0525pt.
- <figs/Engg.pdf, id=111, 462.72874pt x 347.2975pt>
+ <figs/Engg.pdf, id=107, 462.72874pt x 347.2975pt>
 File: figs/Engg.pdf Graphic file (type pdf)
 
 <use figs/Engg.pdf>
@@ -1055,7 +1055,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-) (./fmcw.tex <figs/fmcw.pdf, id=128, 462.72874pt x 347.2975pt>
+) (./fmcw.tex <figs/fmcw.pdf, id=124, 462.72874pt x 347.2975pt>
 File: figs/fmcw.pdf Graphic file (type pdf)
 
 <use figs/fmcw.pdf>
@@ -1074,7 +1074,7 @@ Overfull \hbox (9.49757pt too wide) in paragraph at lines 41--1
 haped
  []
 
-<figs/Batphone.pdf, id=276, 462.72874pt x 303.1325pt>
+<figs/Batphone.pdf, id=272, 462.72874pt x 303.1325pt>
 File: figs/Batphone.pdf Graphic file (type pdf)
  <use figs/Batphone.pdf>
 Package pdftex.def Info: figs/Batphone.pdf used on input line 7.
@@ -1094,54 +1094,54 @@ Overfull \hbox (1.06755pt too wide) in paragraph at lines 8--9
 []\OT1/ptm/m/n/10 MUSIC based peak se-lec-tion (Prior knowl-edge of num-
  []
 
-<figs/4K.pdf, id=336, 459.16545pt x 359.76408pt>
+<figs/4K.pdf, id=332, 459.16545pt x 359.76408pt>
 File: figs/4K.pdf Graphic file (type pdf)
  <use figs/4K.pdf>
 Package pdftex.def Info: figs/4K.pdf used on input line 22.
 (pdftex.def)             Requested size: 110.40161pt x 86.49884pt.
 
-<figs/10K.pdf, id=337, 459.16545pt x 359.76408pt>
+<figs/10K.pdf, id=333, 459.16545pt x 359.76408pt>
 File: figs/10K.pdf Graphic file (type pdf)
  <use figs/10K.pdf>
 Package pdftex.def Info: figs/10K.pdf used on input line 28.
 (pdftex.def)             Requested size: 110.40161pt x 86.49884pt.
 
-<figs/volume-amp.pdf, id=338, 461.8354pt x 356.97366pt>
+<figs/volume-amp.pdf, id=334, 461.8354pt x 356.97366pt>
 File: figs/volume-amp.pdf Graphic file (type pdf)
 
 <use figs/volume-amp.pdf>
 Package pdftex.def Info: figs/volume-amp.pdf used on input line 46.
 (pdftex.def)             Requested size: 110.40161pt x 85.33226pt.
 
-<figs/volume-snr.pdf, id=339, 461.07257pt x 346.33391pt>
+<figs/volume-snr.pdf, id=335, 461.07257pt x 346.33391pt>
 File: figs/volume-snr.pdf Graphic file (type pdf)
 
 <use figs/volume-snr.pdf>
 Package pdftex.def Info: figs/volume-snr.pdf used on input line 52.
 (pdftex.def)             Requested size: 110.40161pt x 82.9263pt.
 
-<figs/distance_error.pdf, id=340, 461.725pt x 346.29375pt>
+<figs/distance_error.pdf, id=336, 461.725pt x 346.29375pt>
 File: figs/distance_error.pdf Graphic file (type pdf)
 
 <use figs/distance_error.pdf>
 Package pdftex.def Info: figs/distance_error.pdf used on input line 67.
 (pdftex.def)             Requested size: 240.0pt x 179.9998pt.
 
-<figs/size_error.pdf, id=341, 461.725pt x 346.29375pt>
+<figs/size_error.pdf, id=337, 461.725pt x 346.29375pt>
 File: figs/size_error.pdf Graphic file (type pdf)
 
 <use figs/size_error.pdf>
 Package pdftex.def Info: figs/size_error.pdf used on input line 78.
 (pdftex.def)             Requested size: 240.0pt x 179.9998pt.
 
-<figs/cdf-localization.pdf, id=342, 451.93843pt x 350.13809pt>
+<figs/cdf-localization.pdf, id=338, 451.93843pt x 350.13809pt>
 File: figs/cdf-localization.pdf Graphic file (type pdf)
 
 <use figs/cdf-localization.pdf>
 Package pdftex.def Info: figs/cdf-localization.pdf used on input line 89.
 (pdftex.def)             Requested size: 240.0pt x 185.94095pt.
 
-<figs/angle.pdf, id=343, 791.78813pt x 703.96pt>
+<figs/angle.pdf, id=339, 791.78813pt x 703.96pt>
 File: figs/angle.pdf Graphic file (type pdf)
  <use figs/angle.pdf>
 Package pdftex.def Info: figs/angle.pdf used on input line 99.
@@ -1155,7 +1155,7 @@ ith
 
 [4 <./figs/4K.pdf> <./figs/10K.pdf> <./figs/volume-amp.pdf> <./figs/volume-snr.
 pdf> <./figs/distance_error.pdf> <./figs/size_error.pdf>]
-<figs/roomshape_algo.pdf, id=400, 462.72874pt x 347.2975pt>
+<figs/roomshape_algo.pdf, id=396, 462.72874pt x 347.2975pt>
 File: figs/roomshape_algo.pdf Graphic file (type pdf)
 
 <use figs/roomshape_algo.pdf>
@@ -1185,21 +1185,21 @@ Underfull \vbox (badness 1675) has occurred while \output is active []
 
  [5 <./figs/cdf-localization.pdf> <./figs/angle.pdf> <./figs/roomshape_algo.pdf
 >])
-(./setup.tex <figs/contour_experiment.jpg, id=447, 4063.18pt x 3047.385pt>
+(./setup.tex <figs/contour_experiment.jpg, id=443, 4063.18pt x 3047.385pt>
 File: figs/contour_experiment.jpg Graphic file (type jpg)
 
 <use figs/contour_experiment.jpg>
 Package pdftex.def Info: figs/contour_experiment.jpg used on input line 6.
 (pdftex.def)             Requested size: 240.0pt x 179.99875pt.
 
-<figs/anechoic_experiment.jpg, id=448, 4063.18pt x 3047.385pt>
+<figs/anechoic_experiment.jpg, id=444, 4063.18pt x 3047.385pt>
 File: figs/anechoic_experiment.jpg Graphic file (type jpg)
 
 <use figs/anechoic_experiment.jpg>
 Package pdftex.def Info: figs/anechoic_experiment.jpg used on input line 18.
 (pdftex.def)             Requested size: 95.99854pt x 71.9809pt.
 
-<figs/anechoic_experiment_floor.jpg, id=449, 4063.18pt x 3047.385pt>
+<figs/anechoic_experiment_floor.jpg, id=445, 4063.18pt x 3047.385pt>
 File: figs/anechoic_experiment_floor.jpg Graphic file (type jpg)
 
 <use figs/anechoic_experiment_floor.jpg>
@@ -1207,7 +1207,7 @@ Package pdftex.def Info: figs/anechoic_experiment_floor.jpg used on input line
 24.
 (pdftex.def)             Requested size: 95.99854pt x 71.9809pt.
 ) (./metrics.tex) (./results.tex
-<figs/cdf-localization-deadreckoning.pdf, id=450, 596.2275pt x 458.71375pt>
+<figs/cdf-localization-deadreckoning.pdf, id=446, 596.2275pt x 458.71375pt>
 File: figs/cdf-localization-deadreckoning.pdf Graphic file (type pdf)
 
 <use figs/cdf-localization-deadreckoning.pdf>
@@ -1215,14 +1215,14 @@ Package pdftex.def Info: figs/cdf-localization-deadreckoning.pdf used on input
 line 20.
 (pdftex.def)             Requested size: 240.0pt x 184.64415pt.
 
-<figs/anechoic/8by8.jpg, id=451, 562.1pt x 421.575pt>
+<figs/anechoic/8by8.jpg, id=447, 562.1pt x 421.575pt>
 File: figs/anechoic/8by8.jpg Graphic file (type jpg)
 
 <use figs/anechoic/8by8.jpg>
 Package pdftex.def Info: figs/anechoic/8by8.jpg used on input line 48.
 (pdftex.def)             Requested size: 240.0pt x 180.00003pt.
 
-<figs/anechoic/with_floor_60_s2.jpg, id=452, 562.1pt x 421.575pt>
+<figs/anechoic/with_floor_60_s2.jpg, id=448, 562.1pt x 421.575pt>
 File: figs/anechoic/with_floor_60_s2.jpg Graphic file (type jpg)
 
 <use figs/anechoic/with_floor_60_s2.jpg>
@@ -1230,36 +1230,32 @@ Package pdftex.def Info: figs/anechoic/with_floor_60_s2.jpg used on input line
 56.
 (pdftex.def)             Requested size: 240.0pt x 180.00003pt.
 
-<figs/anechoic/without_floor_60.jpg, id=453, 562.1pt x 421.575pt>
+<figs/anechoic/without_floor_60.jpg, id=449, 562.1pt x 421.575pt>
 File: figs/anechoic/without_floor_60.jpg Graphic file (type jpg)
 
 <use figs/anechoic/without_floor_60.jpg>
 Package pdftex.def Info: figs/anechoic/without_floor_60.jpg used on input line 
 64.
 (pdftex.def)             Requested size: 240.0pt x 180.00003pt.
-) (./discussion.tex)
-(./related_work.tex
+) (./discussion.tex [6 <./figs/contour_experiment.jpg> <./figs/anechoic_experim
+ent.jpg> <./figs/anechoic_experiment_floor.jpg> <./figs/cdf-localization-deadre
+ckoning.pdf> <./figs/anechoic/8by8.jpg>]) (./related_work.tex
 Overfull \hbox (7.43793pt too wide) in paragraph at lines 7--8
 \OT1/ptm/m/n/10 based en-counter de-tec-tion [[]11[]]. Am-bi-ent sound finger-p
 rinting
  []
 
-[6 <./figs/contour_experiment.jpg> <./figs/anechoic_experiment.jpg> <./figs/ane
-choic_experiment_floor.jpg> <./figs/cdf-localization-deadreckoning.pdf>]
-
-LaTeX Warning: Text page 7 contains only floats.
-
-) (./conclusion.tex) (./main.bbl [7 <./figs/anechoic/8by8.jpg> <./figs/anechoic
-/with_floor_60_s2.jpg> <./figs/anechoic/without_floor_60.jpg>]
+) (./conclusion.tex) (./main.bbl [7 <./figs/anechoic/with_floor_60_s2.jpg> <./f
+igs/anechoic/without_floor_60.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
 - LAST -
-Extra skip:11.90002pt
-Left:622.0pt/2.16492pt
-Right:610.09998pt/2.16492pt
-Output:622.0pt
+Extra skip:0.0pt
+Left:562.0pt/2.16492pt
+Right:562.0pt/2.16492pt
+Output:562.0pt
  [8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
 
@@ -1267,20 +1263,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D58E834E774A36C4F8E3F46725F932BB;1648.
+(rerunfilecheck)             Checksum: 19799053A475BE3F75AA187CFC2EAD3C;1574.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 10948 strings out of 493117
- 167803 string characters out of 6135433
- 301812 words of memory out of 5000000
- 14065 multiletter control sequences out of 15000+600000
+ 10946 strings out of 493117
+ 167773 string characters out of 6135433
+ 292812 words of memory out of 5000000
+ 14064 multiletter control sequences out of 15000+600000
  52376 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,35p,2089b,486s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,35p,2089b,488s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
@@ -1297,10 +1293,10 @@ ts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
 1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/time
 s/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (8 pages, 16809803 bytes).
+Output written on main.pdf (8 pages, 16809751 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 474 compressed objects within 5 object streams
- 91 named destinations out of 1000 (max. 500000)
- 314 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 605 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 306 words of extra memory for PDF output out of 10000 (max. 10000000)
 
