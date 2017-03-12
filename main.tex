@@ -1,0 +1,179 @@
+\documentclass{sig-alternate-10pt}
+%\documentclass[10pt, conference, letterpaper]{IEEEtran}
+\newcommand{\ie}{{\em i.e.}}
+\newcommand{\eg}{{\em e.g.}}
+\long\def\comment#1{}
+\long\def\comment#1{}
+\usepackage[utf8]{inputenc}
+\usepackage{cleveref}
+\crefname{section}{§}{§§}
+\Crefname{section}{§}{§§}
+
+% Load basic packages
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{balance}  % to better equalize the last page
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{graphics} % for EPS, load graphicx instead
+\usepackage{times}    % comment if you want LaTeX's default font
+\usepackage[hyphens]{url}      % llt: nicely formatted URLs
+\usepackage{array}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{flushend}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{dirtytalk}
+\usepackage{csquotes}
+\usepackage{xspace}
+\newcommand*\textfrac[2]{
+  \frac{\text{#1}}{\text{#2}}
+}
+\usepackage{algorithm}
+\usepackage{xspace}
+%\usepackage{algorithmicx}
+\usepackage[noend]{algpseudocode}
+
+\newcommand\tabhead[1]{\small\textbf{#1}}
+\newcommand{\squeezeup}{\vspace{-3mm}}
+\newcommand{\cm}[1]{{\bf\color{red}[#1]}}
+\newcommand{\system}{\textsc{Batphone}\xspace}
+\newcommand{\systemT}{BATPHONE\xspace}
+\newcommand{\singletag}{\textsc{\system-Single}\xspace}
+\newcommand{\multitag}{\textsc{\system-Multi}\xspace}
+
+\makeatletter
+\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+\newenvironment{sitemize}{%
+  \begin{list}{$\bullet$}{%
+    %\setlength{\rightmargin}{\leftmargin}
+    \setlength{\itemsep}{0.2cm}%
+    \setlength{\leftmargin}{1.5em}%
+    \setlength{\topsep}{4pt plus 2pt minus 2pt}%
+    \setlength{\parsep}{0.0cm}}%
+  }{\end{list}}
+
+\newenvironment{senumerate}{%
+   \begin{list}{\arabic{enumi}.}{%
+    \setlength\labelwidth{1.5em}%
+    \setlength\leftmargin{1.5em}%
+    \setlength{\topsep}{4pt plus 2pt minus 2pt}%
+    \setlength\itemsep{0.0cm}%
+    \usecounter{enumi}}%
+  }{\end{list}}
+  
+%\usepackage{amsthm}
+
+% llt: Define a global style for URLs, rather that the default one
+%  \makeatletter
+%  \def\url@leostyle{%
+%   \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\bf\ttfamily}}}
+%  \makeatother
+%  \urlstyle{leo}
+
+
+% To make various LaTeX processors do the right thing with page size.
+%\def\pprw{8.5in}
+%\def\pprh{11in}
+%\special{papersize=\pprw,\pprh}
+%\setlength{\paperwidth}{\pprw}
+%\setlength{\paperheight}{\pprh}
+%\setlength{\pdfpagewidth}{\pprw}
+%\setlength{\pdfpageheight}{\pprh}
+%\setlength{\fboxsep}{0pt}%
+%\setlength{\fboxrule}{1pt}%
+
+% Make sure hyperref comes last of your loaded packages, 
+% to give it a fighting chance of not being over-written, 
+% since its job is to redefine many LaTeX commands.
+
+\usepackage[pdftex]{hyperref}
+\newcommand{\para}[1]{\smallskip\noindent {\bf #1}}
+
+% create a shortcut to typeset table headings
+
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\cdot$}
+\renewcommand{\labelitemiii}{$\diamond$}
+\renewcommand{\labelitemiv}{$\ast$}
+
+
+
+\begin{document}
+
+%\twocolumn[
+%  \begin{center}
+%    {\LARGE\textbf{\textrm{Batphone: Mapping surroundings using a smartphone}}}\\
+%      %\medskip
+%     % {\large{Paper: XX \hspace{1in} \# Pages: 12}}
+%      \smallskip
+%  \end{center}
+%]\twocolumn
+
+\title{Batphone: Audio based room shape detection using a smartphone}
+%\titlenote{This is the first draft of the paper}}
+%\numberofauthors{4} 
+%\author{
+%% You can go ahead and credit any number of authors here,
+%% e.g. one 'row of three' or two rows (consisting of one row of three
+%% and a second row of one, two or three).
+%%
+%% The command \alignauthor (no curly braces needed) should
+%% precede each author name, affiliation/snail-mail address and
+%% e-mail address. Additionally, tag each line of
+%% affiliation/address with \affaddr, and tag the
+%% e-mail address with \email.
+%%
+%% 1st. author
+%\alignauthor Swadhin Pradhan\\
+%\affaddr{UT Austin, USA}\\
+%%% 2nd. author
+%\and
+%\alignauthor Ghufran Baig\\
+%\affaddr{UT Austin, USA}\\
+%%% 3rd. author
+%\and
+%\alignauthor Wenguang Mao\\
+%\affaddr{UT Austin, USA}\\
+%\thanks{Most of the work has been done, when he was with HP Labs.}
+%%% 4th author
+%\and
+%\alignauthor Lili Qiu\\
+%\affaddr{UT Austin, USA}\\
+%}
+%
+\date{14 February 2017}
+% Just remember to make sure that the TOTAL number of authors
+% is the number that will appear on the first page PLUS the
+% number that will appear in the \additionalauthors section.
+\maketitle
+
+\input{abstract}
+\input{introduction}
+%\input{outline}
+%\input{dataset}
+\input{fmcw}
+\input{overview}
+\input{motivation}
+\input{algorithm}
+\input{geometric}
+\input{setup}
+\input{metrics}
+\input{results}
+%\input{overview}
+\input{discussion}
+\input{related_work}
+%\input{future_works}
+\input{conclusion}
+
+%\bibliographystyle{splncs03}
+\bibliographystyle{ieeetr}
+\bibliography{main}
+%\small\bibliography{main}
+\end{document}

@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{FMCW Primer}{}% 2
+\BOOKMARK [1][-]{section.3}{Batphone : System Overview}{}% 3
+\BOOKMARK [2][-]{subsubsection.3.0.1}{Dead Reckoning}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.0.2}{FMCW based distance}{subsubsection.3.0.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.0.3}{Room shape profiling}{subsubsection.3.0.1}% 6
+\BOOKMARK [1][-]{section.4}{Design choices}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Different False Attempts or Starts}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{FMCW based observations}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Resolution}{subsection.4.2}% 10
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Volume Level}{subsection.4.2}% 11
+\BOOKMARK [3][-]{subsubsection.4.2.3}{FMCW distance measurement with sizes}{subsection.4.2}% 12
+\BOOKMARK [1][-]{section.5}{Algorithm Description}{}% 13
+\BOOKMARK [1][-]{section.6}{Geometric Constraints}{}% 14
+\BOOKMARK [1][-]{section.7}{Setup}{}% 15
+\BOOKMARK [1][-]{section.8}{Metrics}{}% 16
+\BOOKMARK [1][-]{section.9}{Evaluation}{}% 17
+\BOOKMARK [2][-]{subsection.9.1}{Micro-benchmark for FMCW}{section.9}% 18
+\BOOKMARK [2][-]{subsection.9.2}{Dead-reckoning based estimation}{section.9}% 19
+\BOOKMARK [2][-]{subsection.9.3}{Single wall Contour}{section.9}% 20
+\BOOKMARK [2][-]{subsection.9.4}{Multi wall Contour}{section.9}% 21
+\BOOKMARK [2][-]{subsection.9.5}{Multi wall Contour with clutter}{section.9}% 22
+\BOOKMARK [1][-]{section.10}{Points of Discussion}{}% 23
+\BOOKMARK [1][-]{section.11}{Related Work}{}% 24
+\BOOKMARK [1][-]{section.12}{Conclusion}{}% 25
+\BOOKMARK [1][-]{section.13}{References}{}% 26
